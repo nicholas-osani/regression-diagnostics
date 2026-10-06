@@ -1,8 +1,7 @@
 # Regression Diagnostics in Practice: Fire Damage & Executive Salaries
 
 Statistics course project — Baruch College, Zicklin School of Business, Fall 2025.
-**By Nicholas Osani** — completed solo (submitted under a group header in the course;
-all analysis, code, and write-up are his own).
+
 
 ## What it is
 
